@@ -465,17 +465,3 @@ exit:
 	xorl %ebx, %ebx
 	int $0x80
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
